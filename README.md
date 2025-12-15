@@ -1,2 +1,1 @@
-
-- [Jack of All Trades (PDF)](pdf/Jack_of_All_Trades.pdf)
+- [Jack of All Trades (PDF)](pdf/TryHackMe_Jack_of_All_Trades.pdf)
